@@ -9,7 +9,7 @@ Aplikasi ini menghubungkan masyarakat/calon donatur dengan pengelola yayasan mel
 ---
 
 ## Informasi Yayasan
-- **Nama Yayasan**: Yayasan Mitra
+- **Nama Yayasan**: Yayasan Himatun Ayat Bandung
 - **Alamat**: Jl. Cibiru Indah 7 RT/RW 04/14 Des. Cibiru Wetan, Kec. Cileunyi, Kab. Bandung
 - **Integrasi**: Google Maps API, WhatsApp Direct API, Payment Gateway / QRIS
 
